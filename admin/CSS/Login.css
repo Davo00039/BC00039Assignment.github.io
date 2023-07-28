@@ -1,0 +1,67 @@
+table{
+    margin: auto;
+    margin-top: 5%;
+    width: 350px;
+    height: 500px;
+    background-color: white;
+    padding-bottom: 2%;
+    box-shadow: 0px 1px 5px 5px silver;
+}
+
+th{
+    width: 30%;
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+    background-color: black;
+    padding: 8% 0%;
+}
+
+tr{
+    text-align: center;
+    font-size: 18px;
+}
+
+tr#Username{
+    text-align: center;
+    font-size: 18px;
+    
+}
+
+tr#Password{
+    text-align: center;
+    font-size: 18px;
+}
+
+#login{
+    margin: 0% 35%;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    width: 100px;
+    padding: 3px 5px;
+    
+    
+}
+
+#username{
+    
+    border: none;
+    width: 200px;
+    font-size: 15px;
+    margin: 10px 0px 2px 0px; 
+    padding: 3px 5px;
+    border-bottom: 1px solid black;
+}
+
+#password{
+    
+    border: none;
+    width: 200px;
+    font-size: 15px;
+    margin: 1px 0px 2px 0px;
+    padding: 3px 5px;
+    border-bottom: 1px solid black;
+}

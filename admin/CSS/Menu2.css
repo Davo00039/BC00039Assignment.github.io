@@ -1,0 +1,49 @@
+a{
+    color:white;
+    text-decoration: none;
+    font-weight: bolder;
+    /* font-size: larger; */
+}
+
+a:hover{
+    color: rgb(135, 134, 134);
+}
+
+a.menu{
+    color:rgb(191, 190, 190);
+    font-size: larger;
+    font-weight: 500;
+}
+
+ul {
+    background: rgb(226, 226, 226);
+    list-style-type: none;
+    text-align: center;
+    color: white;
+  }
+
+  li {
+    color: black;
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -5px;
+  }
+
+
+  #tableproduct{
+    width: 500px;
+  
+  }
+  
+  #Logout{
+      color: black;
+  }
+  
+  #adminname{
+      text-align: right; 
+      margin-right: 3%;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: large;
+  }

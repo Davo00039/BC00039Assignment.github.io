@@ -1,0 +1,173 @@
+
+
+#tabs{
+    width: 1518px;
+    background-color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    
+    
+}
+
+
+a{
+    color:white;
+    text-decoration: none;
+    font-weight: bolder;
+    /* font-size: larger; */
+}
+a:hover{
+    color: rgb(135, 134, 134);
+}
+
+a.menu{
+    color:white;
+    font-size: larger;
+    font-weight: 500;
+}
+
+ul {
+    background: silver;
+    list-style-type: none;
+    text-align: center;
+    color: white;
+  }
+li {
+    color: white;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -5px;
+  }
+
+
+  #Detailtable{
+    margin: 0% 35%;
+    padding: 2%;
+  }
+  
+
+  td{
+    padding: 3%;
+  }
+  b{
+    margin: 15%;
+  }
+
+  #logo{
+    width:"120px";
+    margin: 10px 0px 10px 10px;
+  }
+
+#tableproduct{
+  width: 500px;
+
+}
+
+#Logout{
+    color: black;
+}
+
+#adminname{
+    text-align: right; 
+    margin-right: 3%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+
+
+
+
+#header{
+  background-color: white;
+}
+#menu{
+  background-color:white;
+  width: 18%;
+  margin: 0 2.5%;
+  float: left;
+  
+
+}
+#main{
+  background-color: white;
+  width: 67.5%;
+  margin: 0 2.5% 0 0;
+  float: left;
+  font-family: Helvetica;
+}
+#footer{
+  height: 10%;
+  padding: 5%;
+  clear: left;
+  background-color: black;
+  color: white;
+  padding-left: 15px;
+}
+.menulist{
+  background-color:white;
+  font-weight: bold;
+  margin: 7% 0%;
+  font-size: 20px;
+  color: black;
+  border-bottom: 2px solid silver;
+  padding: 5%;
+}
+
+p#title{
+  font-weight: bold;
+  font-size: large;
+  text-align: center;
+}
+p#abtract{
+  font-style: italic;
+  text-align: justify;
+  padding: 0 5%;
+}
+
+p{
+  padding: 0 5%;
+  text-align: justify;
+}
+img{
+  width: 50%;
+  margin: 1% 5%;
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+a:hover{
+  color: cadetblue;
+}
+
+a.menu{
+  color:black;
+}
+
+
+
+td.tbDetail{
+  padding-left: 1%;
+}
+
+
+
+#item{
+  padding: 2% 20%;
+
+}
+
+#logo{
+  width: 5%;
+}
+
+
+
+
+
+
+
+

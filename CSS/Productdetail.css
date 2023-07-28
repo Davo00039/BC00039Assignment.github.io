@@ -1,0 +1,21 @@
+table{
+    width: 90%;
+    margin-bottom: 2%;
+    background-color: white;
+}
+
+
+
+#btnaddcart{
+    margin-top: 5%;
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+
+}
+
+#item{
+    padding: 2% 12%;
+}
+

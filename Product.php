@@ -9,7 +9,7 @@
             while($row = mysqli_fetch_assoc($result)){
                 if($i % 3 == 0)
                     echo "<tr>";
-                        echo "<td width='35%'>
+                        echo "<td width='35%'><a href='index.php?page=ProductDetail&id={$row['product_id']}'>
                                 <center>
                                     <p>  </p><br>
                                     <p>  </p><br>
@@ -18,7 +18,7 @@
                                     "?> <?php echo number_format($row['product_price'],0) ?> <?php echo "$ <br>
                                     <p>   </p><br>
                                 </center></a>
-                                <center><a><button >Add to cart</button></a></center> <br>
+                                <center><a  href='index.php?page=Cart&action=add&id={$row['product_id']}'><button >Add to cart</button></a></center> <br>
                             </td>";
                 if($i % 3 == 2)
                     echo "</tr>";
